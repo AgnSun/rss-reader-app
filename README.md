@@ -56,7 +56,7 @@ git clone https://github.com/AgnSun/rss-reader-app.git
 ### 2. Install frontend dependencies
 
 ```bash
-cd rss-reader
+cd rss-reader-app
 npm install
 # or
 yarn install
@@ -74,7 +74,7 @@ The frontend will usually run at http://localhost:5173
 
 ### Backend
 
-### 1. Go to the server directory
+### 1. Go to the server directory in new terminal
 
 ```bash
 cd server
