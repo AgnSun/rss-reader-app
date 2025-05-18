@@ -4,6 +4,8 @@ This project is a simple **RSS Reader** application. It lets you subscribe to RS
 
 **RSS (Really Simple Syndication)** is an older but still useful technology that allows users to follow updates from websites like blogs or news portals.
 
+![Demo](public/rss-reader.gif)
+
 ---
 
 ## Features
